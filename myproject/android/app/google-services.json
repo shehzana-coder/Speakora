@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "808014119846",
+    "project_id": "speakora-48c46",
+    "storage_bucket": "speakora-48c46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808014119846:android:ba28a7b5c83bda55540567",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJm2YZIBFVl7XgkY7FspnZutQdTik6El4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808014119846:android:0b0d36aed9c09636540567",
+        "android_client_info": {
+          "package_name": "speakora.edu.pk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJm2YZIBFVl7XgkY7FspnZutQdTik6El4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
